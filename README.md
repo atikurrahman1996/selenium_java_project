@@ -2,3 +2,4 @@
 # selenium get commands
 # check web elements
 # navigation commands
+# findElementVsfindElements
