@@ -1,3 +1,4 @@
 # selenium_java_project
 # selenium get commands
-# check webelements
+# check web elements
+# navigation commands
