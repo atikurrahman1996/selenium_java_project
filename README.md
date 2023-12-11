@@ -4,4 +4,6 @@
 # navigation commands
 # findElementVsfindElements
 # inputBoxVsgetTextVsgetAttribute
-# handle single /multiple drop down
+# handle single /multiple dropdown
+# handle bootstraps dropdown
+
