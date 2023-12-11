@@ -3,3 +3,4 @@
 # check web elements
 # navigation commands
 # findElementVsfindElements
+# InputBoxVsgetTextVsgetAttribute
