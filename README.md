@@ -3,4 +3,5 @@
 # check web elements
 # navigation commands
 # findElementVsfindElements
-# InputBoxVsgetTextVsgetAttribute
+# inputBoxVsgetTextVsgetAttribute
+# handle single /multiple drop down
