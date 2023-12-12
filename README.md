@@ -6,4 +6,5 @@
 # inputBoxVsgetTextVsgetAttribute
 # handle single /multiple dropdown
 # handle bootstraps dropdown
+# handle checkboxes
 
