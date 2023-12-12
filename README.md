@@ -1,4 +1,5 @@
-# selenium_java_project
+Selenium_java_project
+
 # selenium get commands
 # check web elements
 # navigation commands
@@ -7,4 +8,5 @@
 # handle single /multiple dropdown
 # handle bootstraps dropdown
 # handle checkboxes
+# handle Browser Windows
 
