@@ -9,5 +9,6 @@ Selenium_java_project
 # handle bootstraps dropdown
 # handle checkboxes
 # handle Browser Windows
-# handle windows 
+# handle windows and switch window
+# JavaScript Alerts
 
