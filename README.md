@@ -5,8 +5,9 @@ Selenium_java_project
 # navigation commands
 # findElementVsfindElements
 # inputBoxVsgetTextVsgetAttribute
-# handle single /multiple dropdown
+# handle single /multiple dropdowns
 # handle bootstraps dropdown
 # handle checkboxes
 # handle Browser Windows
+# handle windows 
 
