@@ -12,4 +12,5 @@ Selenium_java_project
 # Handle windows and switch window
 # JavaScript Alerts
 # LinksVsLinkTextVsPartialLinkText
+# Handle iFrames
 
