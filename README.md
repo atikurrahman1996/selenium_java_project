@@ -13,4 +13,5 @@ Selenium_java_project
 # JavaScript Alerts
 # LinksVsLinkTextVsPartialLinkText
 # Handle iFrames
+# Implicit Wait and Explicit Wait
 
