@@ -14,4 +14,5 @@ Selenium_java_project
 # LinksVsLinkTextVsPartialLinkText
 # Handle iFrames
 # Implicit Wait and Explicit Wait
+# Handle Web Tables
 
