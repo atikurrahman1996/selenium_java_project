@@ -16,4 +16,5 @@ Selenium_java_project
 # Implicit Wait and Explicit Wait
 # Handle Web Tables
 # Mouse Drag and Drop Actions
+# Mouse Hover Actions
 
