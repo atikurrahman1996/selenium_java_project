@@ -15,4 +15,5 @@ Selenium_java_project
 # Handle iFrames
 # Implicit Wait and Explicit Wait
 # Handle Web Tables
+# Mouse Drag and Drop Actions
 
