@@ -19,5 +19,6 @@ Selenium_java_project
 # Mouse Hover Actions
 # Mouse right-click action
 # Mouse double-click action
+# TakesScreenShoots
 
 
