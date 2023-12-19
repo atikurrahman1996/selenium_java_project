@@ -17,4 +17,7 @@ Selenium_java_project
 # Handle Web Tables
 # Mouse Drag and Drop Actions
 # Mouse Hover Actions
+# Mouse right-click action
+# Mouse double-click action
+
 
