@@ -20,5 +20,6 @@
 # Mouse right-click action
 # Mouse double-click action
 # TakesScreenShoots
+# Tooltip_OpenLinkNewTab_oprn URL's in new tab / browser
 
 
