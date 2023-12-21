@@ -56,13 +56,13 @@ public class Day21_HandleBrowserCookies {
 		System.out.println("Size of the cookies aftet deleting:"+cookies.size());   // 3 cookies
 		
 		
-		// delete all cookies from the browser
+		//Delete all cookies from the browser
 		
         driver.manage().deleteAllCookies();
 		
 		cookies=driver.manage().getCookies();
 		
-		System.out.println("Size of the cookies aftet deleting:"+cookies.size());   // 3 cookies
+		System.out.println("Size of the cookies aftet deleting:"+cookies.size());   // 0
 		
 		driver.quit();
 		
