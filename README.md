@@ -23,5 +23,6 @@
 # Tooltip_OpenLinkNewTab_oprn URLs in new tab/browser
 # Handle Browser Cookies
 # Upload Files
+# Download Files
 
 
