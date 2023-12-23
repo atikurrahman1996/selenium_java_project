@@ -7,6 +7,7 @@
 # inputBoxVsgetTextVsgetAttribute
 # handle single /multiple dropdowns
 # handle bootstraps dropdown
+# Handle jQuery Drop Down
 # handle checkboxes
 # handle Browser Windows
 # Handle windows and switch window
@@ -15,6 +16,7 @@
 # Handle iFrames
 # Implicit Wait and Explicit Wait
 # Handle Web Tables
+# Dynamic Web Table
 # Mouse Drag and Drop Actions
 # Mouse Hover Actions
 # Mouse right-click action
@@ -24,8 +26,7 @@
 # Handle Browser Cookies
 # Upload Files
 # Download Files
-# Handle jQuery Drop Down
 # Auto Complete Drop Down
-# Dynamic Web Table
+# Date Picker
 
 
