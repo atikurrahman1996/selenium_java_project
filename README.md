@@ -32,5 +32,6 @@
 # Authentication pop-up
 # Robot Class keyboard events 
 # Password Encryption and Decryptions
+# Barcode automation using ZXing
 
 
